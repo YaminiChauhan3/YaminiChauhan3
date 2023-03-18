@@ -1,6 +1,4 @@
-###
-
-Hello and welcome to my GitHub profile!👋
+### Hello and welcome to my GitHub profile!👋
 
 I am a data analyst with 3 years of experience, specializing in Python, SQL, Power BI, Tableau, Excel, and some data science models. I have a passion for leveraging data to uncover insights and solve complex business problems.
 
